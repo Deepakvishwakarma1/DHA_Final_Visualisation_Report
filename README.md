@@ -44,9 +44,6 @@ Contributions to the project are welcome. You can contribute in the following wa
 - Adding new visualizations.
 - Improving the dataset's documentation.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Data sourced from Kaggle.
 
